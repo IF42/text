@@ -1,0 +1,2 @@
+.cache/test.o: test/test.c test/../src/text/text.h
+.cache/text.o: src/text.c src/text/text.h
